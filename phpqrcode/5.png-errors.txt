@@ -1,0 +1,102 @@
+2024-05-30 15:50:11: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:51:03: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:57:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:58:00: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:58:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:58:36: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:59:01: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 15:59:04: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:00:33: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:00:45: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:00:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:01:04: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:01:19: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:02:43: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:03:16: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:03:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-05-30 16:03:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\pace\phpqrcode\qrsplit.php</b> on line <b>62</b><br />

@@ -1,0 +1,260 @@
+:root {
+  --navy: #0b1f3a;
+  --navy-light: #102a4c;
+  --navy-dark: #08111f;
+  --gold: #d4af37;
+  --gold-soft: #f5d76e;
+  --text: #e5e7eb;
+  --muted: #94a3b8;
+  --danger: #ef4444;
+  --success: #22c55e;
+  --info: #38bdf8;
+}
+
+* {
+  box-sizing: border-box
+}
+
+html,
+body {
+  height: 100%
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Inter, Segoe UI, Roboto, sans-serif !important;
+  background: linear-gradient(135deg, var(--navy), var(--navy-dark));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: var(--text) !important;
+}
+
+a {
+  text-decoration: none
+}
+
+.sidebar {
+  min-height: 100vh;
+  background: linear-gradient(180deg, var(--navy-light), #0f172a);
+  border-right: 1px solid rgba(212, 175, 55, .12);
+  padding: 1rem;
+}
+
+.brand {
+  color: #fff;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: .5px;
+  margin-bottom: 1rem;
+}
+
+.sidebar a {
+  color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .85rem 1rem;
+  border-radius: 14px;
+  margin-bottom: .45rem;
+  transition: all .25s ease;
+  text-decoration: none;
+}
+
+.sidebar a i {
+  min-width: 18px
+}
+
+.sidebar a:hover {
+  background: rgba(255, 255, 255, .06);
+  color: #fff;
+  transform: translateX(4px);
+}
+
+.sidebar a.active {
+  background: linear-gradient(90deg, rgba(212, 175, 55, .22), rgba(212, 175, 55, .08));
+  color: #fff;
+  border: 1px solid #D4AF37;
+  /* Standard Gold */
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, .18);
+}
+
+
+.main-content {
+  padding: 1.25rem
+}
+
+.card {
+  background: rgba(255, 255, 255, .04) !important;
+  border: 1px solid rgba(212, 175, 55, .14) !important;
+  border-radius: 22px !important;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, .30);
+  color: var(--text) !important;
+}
+
+.btn-gold {
+  background: linear-gradient(90deg, var(--gold), var(--gold-soft));
+  font-weight: 700;
+  color: var(--navy-dark);
+  border: none;
+  border-radius: 12px;
+  padding: 10px 10px;
+  transition: all .25s ease;
+}
+
+.btn-gold:hover {
+  background: linear-gradient(270deg, var(--gold-soft), var(--gold));
+  color: var(--navy-dark);
+  transform: translateY(-2px);
+}
+
+td,
+th,
+tr {
+  color: var(--navy-light) !important;
+}
+
+.progress {
+  border: 1px solid var(--navy-dark)
+}
+
+/* Bootstrap Modal Fix */
+.modal-content {
+  background: #ffffff !important;
+  color: #0b1f3a !important;
+  border-radius: 18px;
+  border: none;
+}
+
+.modal-header,
+.modal-footer {
+  border-color: #e5e7eb !important;
+}
+
+.modal-title,
+.modal label,
+.modal small {
+  color: #0b1f3a !important;
+}
+
+.modal .form-control,
+.modal .form-select {
+  color: #0b1f3a !important;
+  background: #ffffff !important;
+}
+
+.modal .btn-close {
+  filter: none;
+}
+
+/* FORCE BOOTSTRAP MODAL ABOVE CUSTOM LAYOUT */
+.modal {
+  z-index: 2000 !important;
+}
+
+.modal-backdrop {
+  z-index: 1990 !important;
+}
+
+.modal-dialog {
+  z-index: 2001 !important;
+  position: relative;
+}
+
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--multiple {
+  min-height: 38px;
+  border: 1px solid #495057;
+  background: #fff;
+  color: #111;
+}
+
+.select2-dropdown {
+  background: #fff;
+  color: #111;
+}
+
+.select2-results__option {
+  color: #111;
+}
+
+.select2-search__field {
+  color: #111 !important;
+}
+
+.btn-danger {
+  background: #003072;
+  border-color: #003072;
+  color: #fff;
+
+  &:hover {
+    background: #003072;
+    border-color: #003072;
+
+  }
+}
+
+.fullscreen-card{
+    position:fixed !important;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:99999;
+    background:#0a1c34 !important;
+    overflow:auto !important;
+    padding:20px !important;
+}
+
+.fullscreen-card .table-responsive{
+    max-height:none;
+}
+
+.sidebar-hidden .sidebar {
+  display: none !important;
+}
+
+.sidebar-hidden .main-content {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
+.card{
+    overflow:hidden;
+}
+
+.table-responsive{
+    overflow-x:auto;
+    overflow-y:hidden;
+    width:100%;
+}
+
+.table{
+    width:100% !important;
+    margin-bottom:0;
+}
+@media print {
+
+  .sidebar,
+  .btn,
+  .search-box,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .card {
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #ccc !important;
+    box-shadow: none !important;
+  }
+
+  table {
+    color: #000 !important;
+  }
+}
